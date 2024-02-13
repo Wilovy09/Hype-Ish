@@ -1,10 +1,10 @@
 # Hype-Ish
 
-![NOTE]
-Esto es un proyecto escolar
+> ![NOTE]
+> Esto es un proyecto escolar
 
 ## Observaciones
 
-* [ ] Agregar pantallas individualmente y cada una debe incluir su descripción elaborada
-* [ ] Cambiar DF
+* [ ] Agregar pantallas individuales y cada una debe incluir su descripción elaborada
+* [x] Cambiar DF
 * [x] Crear el repositorio
