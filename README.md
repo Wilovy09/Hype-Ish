@@ -1,6 +1,6 @@
 # Hype-Ish
 
-> ![NOTE]
+> [!NOTE]
 > Esto es un proyecto escolar
 
 ## Observaciones
